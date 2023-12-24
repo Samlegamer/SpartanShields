@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"isi",
+		" i "
+	],
+	"key": {
+		"s": {
+			"item": "spartanshields:shield_basic_wood"
+		},
+		"i": {
+			"item": "abyssalcraft:cobblestone",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_abyssalcraft_darkstone"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "abyssalcraft"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_abyssalcraft_darkstone"
+		}
+	]
+}

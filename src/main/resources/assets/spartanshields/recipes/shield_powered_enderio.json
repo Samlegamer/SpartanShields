@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"dpd",
+		"dod",
+		"ded"
+	],
+	"key": {
+		"d": {
+			"item": "enderio:item_alloy_ingot",
+			"data": 6
+		},
+		"p": {
+			"item": "enderio:item_material",
+			"data": 14
+		},
+		"e": {
+			"item": "enderio:item_material",
+			"data": 16
+		},
+		"o": {
+			"item": "enderio:item_basic_capacitor",
+			"data": 2
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_riot_enderio"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "enderio"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_riot_enderio"
+		}
+	]
+}

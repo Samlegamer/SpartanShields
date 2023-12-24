@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"isi",
+		" i "
+	],
+	"key": {
+		"s": {
+			"item": "spartanshields:shield_basic_wood"
+		},
+		"i": {
+			"type": "forge:ore_dict",
+			"ore": "ingotAbyssalnite"
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_abyssalcraft_abyssalnite"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "abyssalcraft"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_abyssalcraft_abyssalnite"
+		}
+	]
+}

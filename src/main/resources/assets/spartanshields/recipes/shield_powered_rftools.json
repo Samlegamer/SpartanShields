@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sbs",
+		"dpd",
+		"scs"
+	],
+	"key": {
+		"s": {
+			"item": "rftools:shield_template_block",
+			"data": 32767
+		},
+		"b": {
+			"item": "rftools:machine_base"
+		},
+		"d": {
+			"item": "rftools:infused_diamond"
+		},
+		"p": {
+			"item": "rftools:shield_block1"
+		},
+		"c": {
+			"item": "rftools:powercell"
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_riot_rftools"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "rftools"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_riot_rftools"
+		}
+	]
+}

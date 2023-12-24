@@ -1,0 +1,7 @@
+{
+	"conditions": {
+		"ore_dict_exists": "com.oblivioussp.spartanshields.util.ConditionFactoryOreDict",
+		"mod_exists": "com.oblivioussp.spartanshields.util.ConditionFactoryModId",
+		"item_exists": "com.oblivioussp.spartanshields.util.ConditionFactoryItemExists"
+	}
+}

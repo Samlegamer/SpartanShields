@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" p ",
+		"psp",
+		" p "
+	],
+	"key": {
+		"p": {
+			"item": "redstonearsenal:material",
+			"data": 224
+		},
+		"s": {
+			"item": "redstonearsenal:material",
+			"data": 192
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_flux_ra"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "redstonearsenal"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_flux_ra"
+		}
+	]
+}

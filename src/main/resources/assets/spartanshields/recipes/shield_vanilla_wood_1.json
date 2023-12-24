@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ww ",
+    "wsw",
+    " ww"
+  ],
+  "key": {
+    "s": {
+      "type": "forge:ore_dict",
+	  "ore": "stickWood"
+    },
+    "w": {
+      "type": "forge:ore_dict",
+	  "ore": "plankWood"
+    }
+  },
+  "result": {
+    "item": "spartanshields:shield_basic_wood"
+  },
+  "conditions": [
+	{
+		"type" : "item_exists",
+		"item": "spartanshields:shield_basic_wood"
+	}
+  ]
+}

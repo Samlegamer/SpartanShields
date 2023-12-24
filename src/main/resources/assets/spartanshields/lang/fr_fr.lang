@@ -1,0 +1,207 @@
+#Localisation for Spartan Shields version 1.5.x
+#Items
+item.spartanshields:shield_basic_wood.name=Bouclier brut en bois
+item.spartanshields:shield_basic_stone.name=Bouclier en pierre
+item.spartanshields:shield_basic_iron.name=Bouclier blindé en fer
+item.spartanshields:shield_basic_gold.name=Bouclier doré d'or
+item.spartanshields:shield_basic_diamond.name=Bouclier en diamant
+
+item.spartanshields:shield_basic_bronze.name=Bouclier blindé en bronze
+item.spartanshields:shield_basic_steel.name=Bouclier blindé en acier
+item.spartanshields:shield_riot_enderio.name=Bouclier anti-émeute en acier sombre
+
+item.spartanshields:shield_basic_copper.name=Bouclier en cuivre
+item.spartanshields:shield_basic_tin.name=Bouclier en étain
+item.spartanshields:shield_basic_silver.name=Bouclier doré d'argent
+item.spartanshields:shield_basic_obsidian.name=Bouclier volumineux en obsidienne
+item.spartanshields:shield_riot_rftools.name=Bouclier anti-émeute infusé
+
+item.spartanshields:shield_basic_enderium.name=Bouclier renforcé en endérium
+item.spartanshields:shield_basic_invar.name=Bouclier plaqué d'invar
+item.spartanshields:shield_basic_platinum.name=Bouclier plaqué de platine
+item.spartanshields:shield_basic_electrum.name=Bouclier plaqué d'électrum
+item.spartanshields:shield_basic_nickel.name=Bouclier renforcé en nickel
+item.spartanshields:shield_basic_lead.name=Bouclier plaqué de plomb
+item.spartanshields:shield_basic_lumium.name=Bouclier de lumium radiant
+item.spartanshields:shield_basic_signalum.name=Bouclier renforcé en signalum
+item.spartanshields:shield_flux_ra.name=Bouclier infusé de flux
+
+item.spartanshields:shield_botania_manasteel.name=Bouclier plaqué de manasteel
+item.spartanshields:shield_botania_terrasteel.name=Bouclier renforcé en terrasteel
+item.spartanshields:shield_botania_elementium.name=Bouclier plaqué d'elementium
+
+item.spartanshields:shield_basic_constantan.name=Bouclier plaqué de constantan
+item.spartanshields:shield_basic_soulforged_steel.name=Bouclier en acier forgé des âmes
+
+item.spartanshields:shield_abyssalcraft_darkstone.name=Bouclier en pierre sombre
+item.spartanshields:shield_abyssalcraft_abyssalnite.name=Bouclier plaqué d'abyssalnite
+item.spartanshields:shield_abyssalcraft_coralium.name=Bouclier plaqué de coralium
+item.spartanshields:shield_abyssalcraft_dreadium.name=Bouclier renforcé en dreadium
+item.spartanshields:shield_abyssalcraft_ethaxium.name=Bouclier renforcé en ethaxium
+
+item.spartanshields:shield_tc_thaumium.name=Bouclier plaqué de thaumium
+item.spartanshields:shield_tc_void.name=Bouclier plaqué de vide
+
+item.spartanshields:shield_tower_wood.name=Bouclier long en bois
+item.spartanshields:shield_tower_stone.name=Bouclier long en pierre
+item.spartanshields:shield_tower_iron.name=Bouclier long en fer
+item.spartanshields:shield_tower_gold.name=Bouclier long en or
+item.spartanshields:shield_tower_diamond.name=Bouclier long en diamant
+
+item.spartanshields:shield_tower_bronze.name=Bouclier long en bronze
+item.spartanshields:shield_tower_steel.name=Bouclier long en acier
+item.spartanshields:shield_tower_copper.name=Bouclier long en cuivre
+item.spartanshields:shield_tower_tin.name=Bouclier long en étain
+item.spartanshields:shield_tower_silver.name=Bouclier long en argent
+item.spartanshields:shield_tower_obsidian.name=Bouclier long en obsidienne
+item.spartanshields:shield_tower_enderium.name=Bouclier long en endérium
+item.spartanshields:shield_tower_invar.name=Bouclier long en invar
+item.spartanshields:shield_tower_platinum.name=Bouclier long en platinium
+item.spartanshields:shield_tower_electrum.name=Bouclier long en électrum
+item.spartanshields:shield_tower_nickel.name=Bouclier long en nickel
+item.spartanshields:shield_tower_lead.name=Bouclier long en plomb
+item.spartanshields:shield_tower_lumium.name=Bouclier long en lumium
+item.spartanshields:shield_tower_signalum.name=Bouclier long en signalum
+item.spartanshields:shield_tower_constantan.name=Bouclier long en constantan
+
+#Items not part of this mod
+item.spartanshields:ingotBronze=Lingot de bronze
+item.spartanshields:ingotSteel=Lingot d'acier
+item.spartanshields:ingotCopper=Lingot de cuivre
+item.spartanshields:ingotTin=Lingot d'étain
+item.spartanshields:ingotSilver=Lingot d'argent
+item.spartanshields:ingotEnderium=Lingot d'endérium
+item.spartanshields:ingotInvar=Lingot d'invar
+item.spartanshields:ingotPlatinum=Lingot de platinium
+item.spartanshields:ingotElectrum=Lingot d'électrum
+item.spartanshields:ingotNickel=Lingot de nickel
+item.spartanshields:ingotLead=Lingot de plomb
+item.spartanshields:ingotLumium=Lingot de lumium
+item.spartanshields:ingotSignalum=Lingot de signalum
+item.spartanshields:ingotConstantan=Lingot de constantan
+
+#Other mods
+mod.spartanshields:enderio=Ender IO
+mod.spartanshields:rftools=RFTools
+mod.spartanshields:abyssalcraft=AbyssalCraft
+mod.spartanshields:betterwithmods=Better With Mods
+mod.spartanshields:redstonearsenal=Redstone Arsenal
+mod.spartanshields:botania=Botania
+mod.spartanshields:thaumcraft=Thaumcraft
+
+#Creative Tabs
+itemGroup.spartanshields:tabBasic.name=Spartan Shields
+
+#Tooltips
+tooltip.spartanshields:dev.wip=Actuellement en cours de développement (WIP)
+tooltip.spartanshields:dev.unimplemented=Pas encore implémenté !
+
+tooltip.spartanshields:protection=Protection maximale : %d
+tooltip.spartanshields:shieldBash=Parrer et [%s] pour donner un coup de bouclier
+tooltip.spartanshields:onBlock=Lorsque-vous parrez : %s
+tooltip.spartanshields:buttonShieldBash=Clic-gauche
+tooltip.spartanshields:shieldSilver.desc=Blesse les créatures morts-vivants
+tooltip.spartanshields:shieldSignalum.desc=Inflige Faiblesse (%ds) aux ennemis
+tooltip.spartanshields:shieldLumium.desc=Inflige Spectre (%ds) aux ennemis
+tooltip.spartanshields:shieldEnderium.desc=Inflige Lenteur (%ds) aux ennemis
+tooltip.spartanshields:shieldElementium.desc=Fait apparaître des fées (%d%% de chance)
+tooltip.spartanshields:rfCapacity=%,d/%,d RF
+tooltip.spartanshields:rfPerDamage=Utilise %,d RF par coeur de dégât absorbé
+tooltip.spartanshields:rfShield.desc=Alimenté par du Redstone Flux
+tooltip.spartanshields:uiCapacity=%,d/%,d µI
+tooltip.spartanshields:uiPerDamage=Utilise %,d µI par coeur de dégât absorbé
+tooltip.spartanshields:feCapacity=%,d/%,d FE
+tooltip.spartanshields:fePerDamage=Utilise %,d FE par coeur de dégât absorbé
+tooltip.spartanshields:feShield.desc=Accepte RF, Micro Infinity, Forge Energy, etc.
+
+tooltip.spartanshields:hasPatterns=A les patrons de bannière suivants :
+
+tooltip.spartanshields:cantCraftMissingMods=Ne peut pas être fabriqué. Mods manquants :
+tooltip.spartanshields:cantCraftMissingMaterial=Ne peut pas être fabriqué. Le matériau %s est manquant.
+
+#Configs
+config.spartanshields:category.general=Paramètres généraux
+config.spartanshields:category.vanilla=Boucliers originaux
+config.spartanshields:category.moddedCommon=Boucliers moddés communs
+config.spartanshields:category.moddedThermal=Boucliers moddés Thermal Foundation
+config.spartanshields:category.moddedBotania=Boucliers Botania
+config.spartanshields:category.moddedAbyssalcraft=Boucliers Abyssalcraft
+config.spartanshields:category.moddedThaumcraft=Boucliers Thaumcraft
+config.spartanshields:category.moddedBWM=Boucliers Better With Mods
+config.spartanshields:category.moddedPowered=Boucliers alimentés par RF & FE
+
+config.spartanshields:durabilityWoodShield=Durabilité du bouclier brut en bois
+config.spartanshields:durabilityStoneShield=Durabilité du bouclier en pierre
+config.spartanshields:durabilityIronShield=Durabilité du bouclier blindé en fer
+config.spartanshields:durabilityGoldShield=Durabilité du bouclier doré d'or
+config.spartanshields:durabilityDiamondShield=Durabilité du bouclier en diamant
+config.spartanshields:durabilityBronzeShield=Durabilité du bouclier blindé en bronze
+config.spartanshields:enableBronzeShield=Bouclier blindé en bronze
+config.spartanshields:durabilitySteelShield=Durabilité du bouclier blindé en acier
+config.spartanshields:enableSteelShield=Bouclier blindé en acier activé
+config.spartanshields:durabilityCopperShield=Durabilité du bouclier en cuivre
+config.spartanshields:enableCopperShield=Bouclier en cuivre activé
+config.spartanshields:durabilityTinShield=Durabilité du bouclier en étain
+config.spartanshields:enabinShield=Bouclier en étain activé
+config.spartanshields:durabilitySilverShield=Durabilité du bouclier doré d'argent
+config.spartanshields:enableSilverShield=Bouclier doré d'argent activé
+config.spartanshields:durabilityObsidianShield=Durabilité du bouclier volumineux en obsidienne
+config.spartanshields:enableObsidianShield=Bouclier volumineux en obsidienne activé
+config.spartanshields:durabilityEnderiumShield=Durabilité du bouclier renforcé en endérium
+config.spartanshields:enableEnderiumShield=Bouclier renforcé en endérium activé
+config.spartanshields:durabilityInvarShield=Durabilité du bouclier plaqué d'invar
+config.spartanshields:enableInvarShield=Bouclier plaqué d'invar activé
+config.spartanshields:durabilityPlatinumShield=Durabilité du bouclier plaqué de platine
+config.spartanshields:enablePlatinumShield=Bouclier plaqué de platine activé
+config.spartanshields:durabilityElectrumShield=Durabilité du bouclier plaqué d'électrum
+config.spartanshields:enableElectrumShield=Bouclier plaqué d'électrum activé
+config.spartanshields:durabilityNickelShield=Durabilité du bouclier renforcé en nickel
+config.spartanshields:enableNickelShield=Bouclier renforcé en nickel activé
+config.spartanshields:durabilityLeadShield=Durabilité du bouclier plaqué de plomb
+config.spartanshields:enableLeadShield=Bouclier plaqué de plomb activé
+config.spartanshields:durabilitySignalumShield=Durabilité du bouclier renforcé en signalum
+config.spartanshields:enableSignalumShield=Bouclier renforcé en signalum activé
+config.spartanshields:durabilityLumiumShield=Durabilité du bouclier de lumium radiant
+config.spartanshields:enableLumiumShield=Bouclier de lumium radiant activé
+config.spartanshields:durabilityManasteelShield=Durabilité du bouclier plaqué de manasteel
+config.spartanshields:enableManasteelShield=Bouclier plaqué de manasteel activé
+config.spartanshields:durabilityTerrasteelShield=Durabilité du bouclier renforcé en terrasteel
+config.spartanshields:enableTerrasteelShield=Bouclier renforcé en terrasteel activé
+config.spartanshields:durabilityElementiumShield=Durabilité du bouclier plaqué d'elementium
+config.spartanshields:enableElementiumShield=Bouclier plaqué d'elementium activé
+config.spartanshields:enableEnderIOShield=Bouclier anti-émeute en acier sombre activé
+config.spartanshields:enableRFToolsShield=Bouclier anti-émeute infusé activé
+config.spartanshields:enableRAShield=Bouclier infusé de flux activé
+config.spartanshields:damageToRFMultiplier=Dégâts aux RF Multiplier
+config.spartanshields:damageToFEMultiplier=Dégâts aux FE Multiplier
+config.spartanshields:vanillaOnly=Boucliers originaux seulement
+config.spartanshields:durabilityConstantanShield=Durabilité du bouclier plaqué de constantan
+config.spartanshields:enableConstantanShield=Bouclier plaqué de constantan activé
+config.spartanshields:durabilitySoulforgedSteelShield=Durabilité du bouclier en acier forgé d'âme
+config.spartanshields:enableSoulforgedSteelShield=Bouclier en acier forgé d'âme activé
+config.spartanshields:durabilityDarkstoneShield=Durabilité du bouclier en pierre sombre
+config.spartanshields:enableDarkstoneShield=Bouclier en pierre sombre activé
+config.spartanshields:durabilityAbyssalniteShield=Durabilité du bouclier plaqué d'abyssalnite
+config.spartanshields:enableAbyssalniteShield=Bouclier plaqué d'abyssalnite activé
+config.spartanshields:durabilityCoraliumShield=Durabilité du bouclier plaqué de coralium
+config.spartanshields:enableCoraliumShield=Bouclier plaqué de coralium activé
+config.spartanshields:durabilityDreadiumShield=Durabilité du bouclier renforcé en dreadlium
+config.spartanshields:enableDreadiumShield=Bouclier renforcé en drealium activé
+config.spartanshields:durabilityEthaxiumShield=Durabilité du bouclier renforcé en ethaxium
+config.spartanshields:enableEthaxiumShield=Bouclier renforcé en ethaxium activé
+config.spartanshields:durabilityThaumiumShield=Durabilité du bouclier plaqué de thaumium
+config.spartanshields:enableThaumiumShield=Bouclier plaqué de thaumium activé
+config.spartanshields:durabilityVoidShield=Durabilité du bouclier plaqué de vide
+config.spartanshields:enableVoidShield=Bouclier plaqué de vide activé
+config.spartanshields:forceDisableUncraftableTooltips=Désactiver les info-bulles des boucliers infabriquables
+config.spartanshields:enableSpikesEnchantment=Enchantement Spikes activé
+config.spartanshields:disableTowerShields=Désactiver les boucliers longs
+config.spartanshields:cooldownShieldBash=Délai entre deux coups de bouclier
+
+#Enchantments
+enchantment.spartanshields:spikes=Spikes
+enchantment.spartanshields:deflect=Deflect
+enchantment.spartanshields.ssenchspikes.desc=Blesse les ennemis qui attaquent le bouclier lorsque vous parrez
+
+#Messages
+message.spartanshields:poweredShieldBlockFail=Ne peut pas absorber les dégâts. Le bouclier n'a plus d'énergie.

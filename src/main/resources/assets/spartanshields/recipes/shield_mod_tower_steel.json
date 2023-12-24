@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" i ",
+		"isi",
+		" i "
+	],
+	"key": {
+		"s": {
+			"item": "spartanshields:shield_tower_wood"
+		},
+		"i": {
+			"type": "forge:ore_dict",
+			"ore": "ingotSteel"
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_tower_steel"
+	},
+	"conditions": [
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_tower_steel"
+		}
+	]
+}

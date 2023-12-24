@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"iri",
+		"iti",
+		" s "
+	],
+	"key": {
+		"i": {
+			"item": "botania:manaresource",
+			"data": 4
+		},
+		"t": {
+			"item": "botania:manaresource",
+			"data": 3
+		},
+		"r": {
+			"item": "botania:rune",
+			"data": 15
+		},
+		"s": {
+			"item": "botania:rune",
+			"data": 8
+		}
+	},
+	"result": {
+		"item": "spartanshields:shield_botania_terrasteel"
+	},
+	"conditions": [
+		{
+			"type" : "mod_exists",
+			"mod": "botania"
+		},
+		{
+			"type" : "item_exists",
+			"item": "spartanshields:shield_botania_terrasteel"
+		}
+	]
+}

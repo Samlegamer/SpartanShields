@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "wsw",
+    " w "
+  ],
+  "key": {
+    "s": {
+      "type": "forge:ore_dict",
+	  "ore": "stickWood"
+    },
+    "w": {
+      "type": "forge:ore_dict",
+	  "ore": "plankWood"
+    }
+  },
+  "result": {
+    "item": "spartanshields:shield_tower_wood"
+  }
+}
